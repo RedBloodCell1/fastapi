@@ -100,3 +100,5 @@ OH NO MAN, the video teach me how to track changes to git, but man i already che
 Umm okay, its to complex and time wasting. Im just gonna keep it this way and i guess i will only commit on the fastapi workspace git in which fastapi2 is the thingies, what i still dont understand is, i still have the **pycache** file in the new git? even tho i already put gitignore. nah well. AND MY VENV FILE IS STILL ON THE GIT??? wait i really need to fix this.
 
 Okay everything is fixed and i fixed everything in a brute force way. I think im gonna stop for now. I know today i dont learn to much, Only learned about CORS (Cross-Origin Resource Sharing) which simply from my understanding allow us to make the request from another website with console.
+
+Just testing...
