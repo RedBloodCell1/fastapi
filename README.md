@@ -103,6 +103,8 @@ Okay everything is fixed and i fixed everything in a brute force way. I think im
 
 Just testing... I dont understand why this dont work. Okay now i know. I just need to push the changes silly me. See you tomorrow
 
-Day 12:
+Day 12: 11:34:40 - 11:36:58 (20 minutes of signing up and downloading heroku)
 
 23:40 now, i actually already started, just making heroku account.
+
+To be honest, im kinda f up today. idk why i dont do anything... Um, bad sleep quality. My leg has been hurting so much and i dont get a good sleep. I got other reasons that is kinda valid but i know that i need to be discipline on this. I really dont want to study right now. Its 1:15 am and yeah im kinda f up. I installed heroku. I will continue this today, but i dont really know if i can because today. Im really sorry...
