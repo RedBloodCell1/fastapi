@@ -102,3 +102,7 @@ Umm okay, its to complex and time wasting. Im just gonna keep it this way and i 
 Okay everything is fixed and i fixed everything in a brute force way. I think im gonna stop for now. I know today i dont learn to much, Only learned about CORS (Cross-Origin Resource Sharing) which simply from my understanding allow us to make the request from another website with console.
 
 Just testing... I dont understand why this dont work. Okay now i know. I just need to push the changes silly me. See you tomorrow
+
+Day 12:
+
+23:40 now, i actually already started, just making heroku account.
