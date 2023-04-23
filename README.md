@@ -108,3 +108,16 @@ Day 12: 11:34:40 - 11:36:58 (20 minutes of signing up and downloading heroku)
 23:40 now, i actually already started, just making heroku account.
 
 To be honest, im kinda f up today. idk why i dont do anything... Um, bad sleep quality. My leg has been hurting so much and i dont get a good sleep. I got other reasons that is kinda valid but i know that i need to be discipline on this. I really dont want to study right now. Its 1:15 am and yeah im kinda f up. I installed heroku. I will continue this today, but i dont really know if i can because today. Im really sorry...
+
+Day 14: The End (For Now and maybe for a long time)
+I dont study at day 14, yeah i know its really bad and i feel really sorry for myself for skipping one entire day not studying. Sorry for that. 21:28 now, gonna study until 12 hopefully.
+
+This is really sad, its time to deploy this thingies to web but i dont have any card info and i cant actually deploy it. So i just watch the vid, So yeah. Ubuntu also cost money so yeah.
+
+I dont think theres anything else that i can learn here besides deployment and testing. I guess im gonna stop here because the application is actually already done, maybe ci/cd will be helpfull but i will see you guys tomorrow for new project. Im gonna learn about machine learning next with python because thats what i really need right now for my major. So yeah see you tomorrow. I just realize that today isnt a long day but i can focus on learning something new tomorrow and im really excited about it. Thinking about it. I know i have skip 2 days almost not studying anything at all. But i know that its gonna be fine because i am not afraid of coming back. I also learn so much about git whilist i study and watch this video so for the next project, its gonna be way easier to get my project to github. Im really excited to study more because right now i really love studying. Even tho sometimes it feels hard, i know that acquring knowledge is essential and i dont mind having more knowledge.
+
+Thanks for such amazing person making this video. It really help me out a lot. I will put the link of this video down here so for anyone who for some reason stumble upon my github page and this project can also learn about API. See you guys!!!
+
+https://youtu.be/0sOvCWFmrtA
+
+ps: I have learned so much about API and Im ready if I get a job related to back-end with any kind of language. I now need to focus on front-end and machine learning. So i can make my own portfolio and host it somewhere so people can actually see my website.
