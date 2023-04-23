@@ -109,7 +109,7 @@ Day 12: 11:34:40 - 11:36:58 (20 minutes of signing up and downloading heroku)
 
 To be honest, im kinda f up today. idk why i dont do anything... Um, bad sleep quality. My leg has been hurting so much and i dont get a good sleep. I got other reasons that is kinda valid but i know that i need to be discipline on this. I really dont want to study right now. Its 1:15 am and yeah im kinda f up. I installed heroku. I will continue this today, but i dont really know if i can because today. Im really sorry...
 
-Day 14: The End (For Now and maybe for a long time)
+Day 14: The End (For Now and maybe for a long time) (37 minutes of study)
 I dont study at day 14, yeah i know its really bad and i feel really sorry for myself for skipping one entire day not studying. Sorry for that. 21:28 now, gonna study until 12 hopefully.
 
 This is really sad, its time to deploy this thingies to web but i dont have any card info and i cant actually deploy it. So i just watch the vid, So yeah. Ubuntu also cost money so yeah.
